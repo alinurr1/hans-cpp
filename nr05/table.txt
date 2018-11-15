@@ -1,0 +1,51 @@
+Move and Assign are O(n^2) - there are two loops
+Std is O(log(n) is fastest
+
+move is slower for a list
+assign is fastest for a list
+std
+
+For 2000 Vector
+sorting took 0.330308 seconds
+sorting took 2.59269 seconds
+sorting took 0.00994801 seconds
+
+For 3000 Vector
+sorting took 0.749115 seconds
+sorting took 5.66916 seconds
+sorting took 0.012457 seconds
+
+For 4000 Vector
+sorting took 1.33211 seconds
+sorting took 9.93482 seconds
+sorting took 0.0146016 seconds
+
+For 5000 Vector
+sorting took 2.066s seconds
+sorting took 15.15s seconds
+sorting took 0.0184s seconds
+
+For 10000 Vector
+sorting took 8.98974 seconds
+sorting took 60.7427 seconds
+sorting took 0.0342563 seconds
+
+For 2000 List
+sorting took 0.296612 seconds
+sorting took 0.216612 seconds
+
+For 3000 List
+sorting took 0.721418 seconds
+sorting took 0.467381 seconds
+
+For 4000 List
+sorting took 1.25268 seconds
+sorting took 0.802901 seconds
+
+For 5000 List
+sorting took 1.97335 seconds
+sorting took 1.36811 seconds
+
+For 10000 List
+sorting took 8.39375 seconds
+sorting took 4.72069 seconds

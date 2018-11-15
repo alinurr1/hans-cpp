@@ -1,0 +1,2 @@
+In 1.b the difference was that in the first variant the program gave us the solution 
+however, in the second modification it returns the expression.
